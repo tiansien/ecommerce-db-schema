@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
 }
 
 .main {
@@ -10,6 +10,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #d4fb67;
+  color: white;
+}
+
+.img {
+  width: 50vw;
+  margin: 10px 0;
+  border-radius: 50px;
 }
 
 .footer {
